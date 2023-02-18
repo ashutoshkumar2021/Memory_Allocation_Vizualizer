@@ -1,2 +1,2 @@
 # Memory Allocation Vizualizer
-![Screenshot (2710)](Screenshot (2710).png)
+<img src="relative/path/in/repository/to/Screenshot (2710).png" width="128"/>
