@@ -1,2 +1,2 @@
 # Memory Allocation Vizualizer
-![Screenshot (2710)](screenshot (2710).png)
+![Screenshot (2710)](Screenshot (2710).png)
