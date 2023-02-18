@@ -166,7 +166,7 @@ export default class Visualization extends Component {
   }
 
   nextBestFitStep(state) {
-    const { chunks, sizes, error, chunkIdx = 0, sizeIdx = 0, step = 'access', bestFit } = state;
+    const { chunks, sizes, error, chunkIdx = 0, sizeIdx = 0, bestFit } = state;
 
     const size = sizes[ sizeIdx ];
     const chunk = chunks[ chunkIdx ];
@@ -205,7 +205,7 @@ export default class Visualization extends Component {
   }
 
   nextWorstFitStep(state) {
-    const { chunks, sizes, error, chunkIdx = 0, sizeIdx = 0, step = 'access', worstFit } = state;
+    const { chunks, sizes, error, chunkIdx = 0, sizeIdx = 0, worstFit } = state;
 
     const size = sizes[ sizeIdx ];
     const chunk = chunks[ chunkIdx ];
