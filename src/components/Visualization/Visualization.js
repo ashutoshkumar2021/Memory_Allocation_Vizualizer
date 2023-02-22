@@ -15,8 +15,8 @@ export default class Visualization extends Component {
       sizes: [],
     };
 
-    this.defaultChunks = [ 10, 20, 30, 50, 10 ];
-    this.defaultSizes = [ 1, 2, 3, 25, 20 ];
+    this.defaultChunks = [ 15, 25, 35, 45, 15 ];
+    this.defaultSizes = [ 5, 4, 3, 22, 19 ];
   }
 
   componentDidMount() {
