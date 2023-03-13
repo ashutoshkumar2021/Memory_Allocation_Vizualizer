@@ -12,6 +12,7 @@ export default function Header() {
     return (
         <header style={headerStyle}>
             <h1>Memory Partition Allocation Visualizer</h1>
+            <Content/>
         </header>
     )
 }
