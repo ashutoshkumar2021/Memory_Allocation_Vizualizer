@@ -1,6 +1,6 @@
 import React from 'react';
 import Content from '../Description/Content';
-import "./Header.css"
+
 
 export default function Header() {
 
